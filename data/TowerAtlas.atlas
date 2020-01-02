@@ -1,0 +1,82 @@
+images {
+  image: "/builtins/graphics/particle_blob.png"
+}
+images {
+  image: "/data/images/game/towers/08.png"
+}
+images {
+  image: "/data/images/game/towers/09.png"
+}
+images {
+  image: "/data/images/game/towers/10.png"
+}
+images {
+  image: "/data/images/game/towers/11.png"
+}
+images {
+  image: "/data/images/game/towers/12.png"
+}
+images {
+  image: "/data/images/game/towers/13.png"
+}
+images {
+  image: "/data/images/game/towers/14.png"
+}
+images {
+  image: "/data/images/game/towers/15.png"
+}
+images {
+  image: "/data/images/game/towers/16.png"
+}
+images {
+  image: "/data/images/game/towers/17.png"
+}
+images {
+  image: "/data/images/game/towers/18.png"
+}
+images {
+  image: "/data/images/game/towers/19.png"
+}
+images {
+  image: "/data/images/game/towers/20.png"
+}
+images {
+  image: "/data/images/game/towers/21.png"
+}
+images {
+  image: "/data/images/game/towers/22.png"
+}
+images {
+  image: "/data/images/game/towers/23.png"
+}
+images {
+  image: "/data/images/game/towers/24.png"
+}
+images {
+  image: "/data/images/game/towers/25.png"
+}
+images {
+  image: "/data/images/game/towers/26.png"
+}
+images {
+  image: "/data/images/game/towers/06.png"
+}
+animations {
+  id: "TowerOne"
+  images {
+    image: "/data/images/game/towers/01.png"
+  }
+  images {
+    image: "/data/images/game/towers/02.png"
+  }
+  images {
+    image: "/data/images/game/towers/03.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 60
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+margin: 0
+extrude_borders: 2
+inner_padding: 0
