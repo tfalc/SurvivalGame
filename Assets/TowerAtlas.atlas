@@ -1,0 +1,82 @@
+images {
+  image: "/builtins/graphics/particle_blob.png"
+}
+images {
+  image: "/Assets/PNG/08.png"
+}
+images {
+  image: "/Assets/PNG/09.png"
+}
+images {
+  image: "/Assets/PNG/10.png"
+}
+images {
+  image: "/Assets/PNG/11.png"
+}
+images {
+  image: "/Assets/PNG/12.png"
+}
+images {
+  image: "/Assets/PNG/13.png"
+}
+images {
+  image: "/Assets/PNG/14.png"
+}
+images {
+  image: "/Assets/PNG/15.png"
+}
+images {
+  image: "/Assets/PNG/16.png"
+}
+images {
+  image: "/Assets/PNG/17.png"
+}
+images {
+  image: "/Assets/PNG/18.png"
+}
+images {
+  image: "/Assets/PNG/19.png"
+}
+images {
+  image: "/Assets/PNG/20.png"
+}
+images {
+  image: "/Assets/PNG/21.png"
+}
+images {
+  image: "/Assets/PNG/22.png"
+}
+images {
+  image: "/Assets/PNG/23.png"
+}
+images {
+  image: "/Assets/PNG/24.png"
+}
+images {
+  image: "/Assets/PNG/25.png"
+}
+images {
+  image: "/Assets/PNG/26.png"
+}
+images {
+  image: "/Assets/PNG/06.png"
+}
+animations {
+  id: "TowerOne"
+  images {
+    image: "/Assets/PNG/01.png"
+  }
+  images {
+    image: "/Assets/PNG/02.png"
+  }
+  images {
+    image: "/Assets/PNG/03.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 60
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+margin: 0
+extrude_borders: 2
+inner_padding: 0
