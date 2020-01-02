@@ -1,2 +1,2 @@
-# SurvivalGame
-Survival game creation
+# TowerDefense
+Creation of a new Tower Defense game
